@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109713039512",
+    "project_id": "flutterauthapp-66622",
+    "storage_bucket": "flutterauthapp-66622.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109713039512:android:9657cec5dd4f456b81f0ed",
+        "android_client_info": {
+          "package_name": "com.example.finance_tracker_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84_K0eX4bN-WuViQcL-ttXKNlvg-jy0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

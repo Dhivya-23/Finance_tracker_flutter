@@ -1,0 +1,33 @@
+name: finance_tracker_v2
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.17.4
+  firebase_auth_web: ^5.7.3
+  cloud_firestore: ^4.14.0 # ✅ Add this
+  provider: ^6.1.2
+  scoped_model: ^2.0.0
+  uuid: ^3.0.7
+  intl: any
+  cupertino_icons: ^1.0.8
+  js: ^0.6.7
+  flutter_spinkit: ^5.2.0 # ✅ Optional: loading animations
+  http: ^0.13.6 # ✅ Optional: for fetching REST API data
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
